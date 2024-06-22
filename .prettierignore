@@ -1,0 +1,9 @@
+# kon konsi files meh prettier implement nahi karna hai
+
+/.vscode
+/node_modules
+./dist
+
+*.env
+.env
+.env*

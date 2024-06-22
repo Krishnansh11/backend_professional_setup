@@ -12,5 +12,8 @@
     "backend"
   ],
   "author": "Krishnansh Aggarwal",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.3.2"
+  }
 }
