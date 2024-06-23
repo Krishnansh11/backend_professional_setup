@@ -6,9 +6,9 @@ const asyncHandler = (requestHandler) => {
 
 export { asyncHandler };
 
+// Purpose
 
-
-
+// The asyncHandler function is a higher-order function designed to catch errors in asynchronous route handlers automatically and pass them to Express's error-handling middleware. This helps in maintaining cleaner and more readable code, as you don't need to write repetitive try-catch blocks for each route handler.
 
 
 
